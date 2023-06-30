@@ -1,4 +1,4 @@
-# Spam_Quora
+# Spam_Filter-for-Quora-questions-DL-project
 
 # Goal : 
 Build a model for identifying if a question on Quora is spam 
